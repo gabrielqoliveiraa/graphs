@@ -16,7 +16,7 @@ public class Principal {
 		grafo.adicionarAresta(10, v4, v3);
 
 //		grafo.print();
-		grafo.buscarLargura();
+		grafo.buscarLargura2(v1);
 	}
 
 }
